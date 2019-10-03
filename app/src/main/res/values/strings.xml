@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TGR ID</string>
+    <string-array name="pendidikan_array">
+        <item>DI</item>
+        <item>DIII</item>
+    </string-array>
+</resources>
